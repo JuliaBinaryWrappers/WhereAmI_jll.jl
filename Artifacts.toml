@@ -1,0 +1,151 @@
+[[WhereAmI]]
+arch = "aarch64"
+git-tree-sha1 = "0d7f996635ef51c925be698e2aadae3e459f8bd6"
+os = "macos"
+
+    [[WhereAmI.download]]
+    sha256 = "377867815686248a1e174c1ce1d9be98eca25ef0531998d10b086d46901f2ab8"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[WhereAmI]]
+arch = "aarch64"
+git-tree-sha1 = "6cfb8171078ec5692609ecc98b1b8b74fdfb5708"
+libc = "glibc"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "c15b3d98da0edd927ca2cc5fea8d74cd5c82a4057c12be770675a5e8870908c9"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[WhereAmI]]
+arch = "aarch64"
+git-tree-sha1 = "e00081e902c52cf7b01f053dc7ad9a51afc0320c"
+libc = "musl"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "bde04416776afe595da2db5031c232358de502b5e84ca7eda8fad549fc40b87d"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.aarch64-linux-musl.tar.gz"
+[[WhereAmI]]
+arch = "aarch64"
+git-tree-sha1 = "dff64a194d345a086186dddf01d8f39b818e4ce5"
+os = "freebsd"
+
+    [[WhereAmI.download]]
+    sha256 = "37c75c04d99fbed2edbcefc90f9c8d5d663bb384496642a094a4f5db217e05d9"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+[[WhereAmI]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e0e0e0e11559c2400e795cf8b14aaee25dfae94b"
+libc = "glibc"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "c5edd66c9512324f9c3a7db22d82af14cf639f27bb8d0ab6d6540a696f0e883c"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[WhereAmI]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "77a757a5b1e39a7b8d2b8d64aa8e6e3ccc262771"
+libc = "musl"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "9e4869fc799bff656d83745325a00631a8ed468eb879f750b8676db7b7c1d203"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[WhereAmI]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1a2192f64502b8852815ce70d236173abed26d3c"
+libc = "glibc"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "634300f6b640bf6eb1f48e56f5f9f89dbb805899da139e9fa44c14ba09510b59"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[WhereAmI]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "16c3321d950f26dfd7f4a9b6edb98d4737083627"
+libc = "musl"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "69bf45b1539c6477031203daea197caad763fb07e87cce3bc38d2f1925560b5d"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[WhereAmI]]
+arch = "i686"
+git-tree-sha1 = "6f93d1ce9cbd2411f2dae9e4743c865dd708a449"
+libc = "glibc"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "f75fac12ac451d12160e8971f5fc5ddea852af8f04bcc2c3ac00c30c3b9dc319"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.i686-linux-gnu.tar.gz"
+[[WhereAmI]]
+arch = "i686"
+git-tree-sha1 = "abbefaea31222f361f9e0a8e9d07d5caa829f439"
+libc = "musl"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "2508307bb481e61519ef51047c39f1e9a9b0e979e194db5236015bd9a68d8417"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.i686-linux-musl.tar.gz"
+[[WhereAmI]]
+arch = "i686"
+git-tree-sha1 = "e3a2fa94f3ec832062890ad0d6d822a2e27e960b"
+os = "windows"
+
+    [[WhereAmI.download]]
+    sha256 = "70240959b6b3dc585187392265a84dd341587d649de5fd3af14a3b59003d3e93"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.i686-w64-mingw32.tar.gz"
+[[WhereAmI]]
+arch = "powerpc64le"
+git-tree-sha1 = "6dcc032998010a800e0066911359309358c3b0a3"
+libc = "glibc"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "b77d6fd618d769f9f0126d58d31ec4a0ef6081055428ff38603f60d0a18cd19a"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[WhereAmI]]
+arch = "x86_64"
+git-tree-sha1 = "85992d11f7ceadadc9d87f09775088a7b16588df"
+os = "macos"
+
+    [[WhereAmI.download]]
+    sha256 = "3445d2da5efe8fd6c0e4ebffdd4a14a89ac615cd736ec93041993f2e34b756d0"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[WhereAmI]]
+arch = "x86_64"
+git-tree-sha1 = "ecc08e4a0a2c4ce79dd92ff16348618e967b17d9"
+libc = "glibc"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "6f7f417e40902b87a2bbd8be2fdc419f8dc585a40d75f95d68123117d03c7ff2"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[WhereAmI]]
+arch = "x86_64"
+git-tree-sha1 = "9e8e72ea3fcae28c158c86dc1746f6d6f2ae1d82"
+libc = "musl"
+os = "linux"
+
+    [[WhereAmI.download]]
+    sha256 = "9549b59edd50980d0077ff45f6006844c5a53f584295dc83359801a72cdf978b"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.x86_64-linux-musl.tar.gz"
+[[WhereAmI]]
+arch = "x86_64"
+git-tree-sha1 = "e19277b600f854a16001f59cef645e3c57f31af3"
+os = "freebsd"
+
+    [[WhereAmI.download]]
+    sha256 = "ad7eaa5872ae748f9c0e554967575dc78b565e41bffed3f427415f52803a7ce7"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[WhereAmI]]
+arch = "x86_64"
+git-tree-sha1 = "8ef1b245a9393e053319b42aa794d22d0e89de7c"
+os = "windows"
+
+    [[WhereAmI.download]]
+    sha256 = "d1060cf2e1ba89d028bb132d405786367916c9db694cdafa2f8aa406cb20eff7"
+    url = "https://github.com/JuliaBinaryWrappers/WhereAmI_jll.jl/releases/download/WhereAmI-v1.0.0+0/WhereAmI.v1.0.0.x86_64-w64-mingw32.tar.gz"
